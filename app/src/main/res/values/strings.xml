@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Bottom Navigation Bar</string>
+    <string name="item_1">Home</string>
+    <string name="item_2">Profile</string>
+    <string name="item_3">Setting</string>
+    <string name="item_4">Shop</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
